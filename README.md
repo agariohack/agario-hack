@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agar.io Hack for playing from keybard
 
 ###*You are of playing agar.io with your mouse?* 
@@ -20,3 +21,6 @@ How to use this agar hack?
 **Todo**
  - Change key layout to WASD
  - Re-map the W ability to another key (E?, Mouse Click?)
+=======
+# agario-hack
+>>>>>>> cc5750cff57beec44b84e530f406de4c3ad9c4c5
